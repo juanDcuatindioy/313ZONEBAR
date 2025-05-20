@@ -1,5 +1,5 @@
 // API Configuration
-export const API_URL = 'http://localhost:5000/api';
+export const API_URL = 'http://back313bar.onrender.com/api';
 
 // Application Settings
 export const APP_NAME = '313 ZONE';
